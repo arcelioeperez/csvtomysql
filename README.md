@@ -13,6 +13,7 @@ chmod +x tomysql
 ```
 python3 main.py
 ```  
+Check that the command to run **Python 3** is `python3` or `python`. In Unix like systems (MacOS and GNU-Linux it's `python3`), but in Windows it might be `python` depending on the terminal that you use    
 
 ### Sample case:  
 
