@@ -3,7 +3,7 @@
 ### How to use the `tomysql` executable:  
 
 ```
-git clone && cd tomysql
+git clone https://github.com/arcelioeperez/csvtomysql.git && cd csvtomysql
 chmod +x tomysql 
 ./tomysql
 ```  
