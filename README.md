@@ -16,20 +16,21 @@ python3 main.py
 
 ### Sample case:  
 
--The prompts will appear on the terminal.  
+- The prompts will appear on the terminal.  
 
 ### Requirements:   
-*If using a virtual environment, use `pip`. If using the terminal, then use `pip3`.*  
+*If using a virtual environment, use `pip`. If using the terminal, then use `pip3`.*   
 pandas==1.1.5   
 SQLAlchemy==1.3.21  
 PyMySQL==0.10.1   
 mysqlclient==2.0.2
 
-### Limitation:  
+### Limitations:  
 - Only works for MySQL  
 - The program has only been tested on the GNU-Linux Ubuntu Distribution  
   - Several packages had to be downloaded in order to achieve the connection to MySQL  
-  - Packages include -- this was installed just to get the `mysqlclient` package:   
+  - Packages include -- this was installed just to get the `mysqlclient` package:  
+  
   ```
   sudo apt-get install python3-dev default-libmysqlclient-dev build-essential
   #then -- in a virtual environment, if not then pip3
