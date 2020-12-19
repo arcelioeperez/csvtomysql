@@ -27,7 +27,7 @@ Flow of the program:
 >>>firsttable.table_columns()
 
 3.create a user
->>>user = firsttable.Sql(user = "root", password = "lacortes9", host
+>>>user = firsttable.Sql(user = "root", password = "root", host
 = "localhost", database = "test")
 
 4.create a table
