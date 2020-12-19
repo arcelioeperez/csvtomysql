@@ -38,6 +38,8 @@ mysqlclient==2.0.2
   #then -- in a virtual environment, if not then pip3
   pip install mysqlclient
   ```  
+  More information here: [PyPy - mysqlclient](https://pypi.org/project/mysqlclient/)    
+  
 - It doesn't have a GUI - all the prompts appear on the terminal  
 
 ### Citation:  
