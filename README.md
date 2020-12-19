@@ -27,6 +27,7 @@ mysqlclient==2.0.2
 
 ### Limitations:  
 - Only works for MySQL  
+- If the CSV file doesn't contain headers it doesn't work. The user would have to create the table manuall in MySQL  
 - The program has only been tested on the GNU-Linux Ubuntu Distribution  
   - Several packages had to be downloaded in order to achieve the connection to MySQL  
   - Packages include -- this was installed just to get the `mysqlclient` package:  
