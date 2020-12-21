@@ -30,7 +30,7 @@ mysqlclient==2.0.2
 
 ### Limitations:  
 - Only works for MySQL  
-- If the CSV file doesn't contain headers it doesn't work. The user would have to create the table manuall in MySQL  
+- If the CSV file doesn't contain headers it doesn't work. The user would have to create the table manually in MySQL  
 - The program has only been tested on the GNU-Linux Ubuntu Distribution  
   - Several packages had to be downloaded in order to achieve the connection to MySQL  
   - According to PyPI's documentation of `mysqlclient`, Ubuntu users should install the following libraries:  
