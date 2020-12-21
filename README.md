@@ -44,5 +44,8 @@ mysqlclient==2.0.2
   
 - It doesn't have a GUI - all the prompts appear on the terminal  
 
+**Image from the terminal:**    
+![image](./csvtomysql-image.png)
+
 ### Citation:  
 [StackOverflow - "How to create a new table in MySQL from a pandas dataframe"](https://stackoverflow.com/questions/51236304/how-to-create-a-new-table-in-a-mysql-db-from-a-pandas-dataframe)  
