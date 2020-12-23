@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/arcelioeperez/dash-app) 
 # CSV to MySQL  
 
 ### How to use the `tomysqlv2` executable:  
