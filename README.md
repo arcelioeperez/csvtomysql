@@ -51,4 +51,5 @@ mysqlclient==2.0.2
 ![image](./csvtomysql-image.png)
 
 ### Citation:  
-[StackOverflow - "How to create a new table in MySQL from a pandas dataframe"](https://stackoverflow.com/questions/51236304/how-to-create-a-new-table-in-a-mysql-db-from-a-pandas-dataframe)  
+[StackOverflow - "How to create a new table in MySQL from a pandas dataframe"](https://stackoverflow.com/questions/51236304/how-to-create-a-new-table-in-a-mysql-db-from-a-pandas-dataframe)    
+[Buttons - Shields.io](http://shields.io/)
