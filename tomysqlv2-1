@@ -3,10 +3,10 @@
 """ 
 -----------------------------
 Make it an executable: 
-chmod +x tomysqlv2 
+chmod +x tomysqlv2-1 
 
 Run it with: 
-./tomysqlv2
+./tomysqlv2-1
 -----------------------------
 User input: 
 filename 
