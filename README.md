@@ -2,14 +2,14 @@
 
 # CSV to MySQL  
 
-### How to use the `tomysqlv2` executable:  
+### How to use the `tomysqlv2-1` executable:  
 
-**Use `tomysqlv2` which contains exception handlers -- in case you mistype your filename, or if the filename is not in the same work directory it lets you type it again.**
+**Use `tomysqlv2-1` which contains exception handlers -- in case you mistype your filename, or if the filename is not in the same work directory it lets you type it again.**
 
 ```
 git clone https://github.com/arcelioeperez/csvtomysql.git && cd csvtomysql
-chmod +x tomysqlv2
-./tomysqlv2
+chmod +x tomysqlv2-1
+./tomysqlv2-1
 ```  
 
 **Alternatively run with**  
