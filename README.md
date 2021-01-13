@@ -66,7 +66,7 @@ mysqlclient==2.0.2
 **Image from the terminal:**    
 ![image](./csvtomysql-image.png)  
 
-# Structure of the program  
+### Structure of the program  
 - Two classes 
   - Csv: reads csv file, creates the table with the appropiate data types  
   - MysqlConnection: inherits from Csv class. Creates the MySQL statement, connects to the database, and exports the dataframe to MySQL    
