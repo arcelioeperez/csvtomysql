@@ -14,6 +14,11 @@ chmod +x tomysqlv2-1
 
 Check that the command to run **Python 3** is `python3` or `python`. In Unix like systems (MacOS and GNU-Linux it's `python3`), but in Windows it might be `python` depending on the terminal that you use    
 
+### Structure of the program  
+Two classes 
+- Csv: reads csv file, creates the table with the appropiate data types  
+- MysqlConnection: creates the MySQL statement, connects to the database, and exports the dataframe to MySQL    
+
 ### Sample case:  
 
 - The prompts will appear on the terminal.  
@@ -65,11 +70,6 @@ mysqlclient==2.0.2
 
 **Image from the terminal:**    
 ![image](./csvtomysql-image.png)  
-
-### Structure of the program  
-Two classes 
-- Csv: reads csv file, creates the table with the appropiate data types  
-- MysqlConnection: creates the MySQL statement, connects to the database, and exports the dataframe to MySQL    
 
 ### Citation:  
 [StackOverflow - "How to create a new table in MySQL from a pandas dataframe"](https://stackoverflow.com/questions/51236304/how-to-create-a-new-table-in-a-mysql-db-from-a-pandas-dataframe)    
