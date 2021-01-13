@@ -67,9 +67,9 @@ mysqlclient==2.0.2
 ![image](./csvtomysql-image.png)  
 
 ### Structure of the program  
-- Two classes 
-  - Csv: reads csv file, creates the table with the appropiate data types  
-  - MysqlConnection: inherits from Csv class. Creates the MySQL statement, connects to the database, and exports the dataframe to MySQL    
+Two classes 
+- Csv: reads csv file, creates the table with the appropiate data types  
+- MysqlConnection: inherits from Csv class. Creates the MySQL statement, connects to the database, and exports the dataframe to MySQL    
 
 ### Citation:  
 [StackOverflow - "How to create a new table in MySQL from a pandas dataframe"](https://stackoverflow.com/questions/51236304/how-to-create-a-new-table-in-a-mysql-db-from-a-pandas-dataframe)    
