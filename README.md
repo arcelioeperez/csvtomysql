@@ -30,7 +30,8 @@ mysqlclient==2.0.2
   - It has only been tested with the terminal version of MySQL  
   - Commands MySQL terminal  
   ```
-  #open mysql and type your password
+  #open mysql and type your password. 
+  #change **root** to your username in mysql 
   mysql -u root -p 
   
   #to view the databases
