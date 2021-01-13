@@ -27,6 +27,24 @@ mysqlclient==2.0.2
 
 ### Limitations:  
 - Only works for MySQL  
+  - It has only been tested with the terminal version of MySQL  
+  - Commands MySQL terminal  
+  ```
+  #open mysql and type your password
+  mysql -u root -p 
+  
+  #to view the databases
+  show databases; 
+  
+  #select a database 
+  use test; 
+  
+  #to show the tables inside the database 
+  show tables; 
+  
+  #test query -- show first 10 rows 
+  select * from test limit 10; 
+  ```  
 - If the CSV file doesn't contain headers it doesn't work. The user would have to create the table manually in MySQL  
 - The program has only been tested on the GNU-Linux Ubuntu Distribution  
   - Several packages had to be downloaded in order to achieve the connection to MySQL  
