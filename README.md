@@ -44,6 +44,9 @@ mysqlclient==2.0.2
   
   #test query -- show first 10 rows 
   select * from test limit 10; 
+  
+  #quit mysql 
+  \quit 
   ```  
 - If the CSV file doesn't contain headers it doesn't work. The user would have to create the table manually in MySQL  
 - The program has only been tested on the GNU-Linux Ubuntu Distribution  
