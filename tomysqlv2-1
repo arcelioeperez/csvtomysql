@@ -43,7 +43,7 @@ class Csv:
         for i, h1 in enumerate(headers_list):
             stmt += f", {h1[0]} {tmap[h1[1]]}"
         return stmt
-class MysqlConnection():
+class MysqlConnection:
     def __init__(self, user, password, host, database):
         self.user = user
         self.password = password
