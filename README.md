@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/arcelioeperez/csvtomysql) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)](https://www.sqlalchemy.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Pandas)](https://www.sqlalchemy.org/)  
 
 # CSV to MySQL  
 
